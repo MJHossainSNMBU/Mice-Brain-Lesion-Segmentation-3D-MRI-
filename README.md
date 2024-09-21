@@ -38,9 +38,12 @@ The dataset used for this project consists of **T2-weighted MRI scans of mice** 
 - `create_dataset_for_transfer_learning.py`: Code for selecting a subset of training samples for transfer learning based on lesion sizes.
 
 ## Images
+Training and Validation Progress of the model which had 40 Training Samples without Augmentation for Partial Fine-Tuning Transfer Learning.
 ![Dice Loss Curve](./images/part40augmentEpoch.png)
+
+Visual Representation of Segmentation Outcomes from Partial Fine-Tuning with 40 training samples.
 ![Visual Result2](./images/noAugEnco40.png)
-![Visual Result3](./images/visual_result3.png)
+
 
 
 ## How to Use
