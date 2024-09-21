@@ -37,6 +37,12 @@ The dataset used for this project consists of **T2-weighted MRI scans of mice** 
 - `transfer_learning_ratlesnet.py`: Code for fine-tuning the RatLesNetV2 model using transfer learning.
 - `create_dataset_for_transfer_learning.py`: Code for selecting a subset of training samples for transfer learning based on lesion sizes.
 
+## Images
+![Dice Loss Curve](./images/part40augmentEpoch.png)
+![Visual Result2](./images/noAugEnco40.png)
+![Visual Result3](./images/visual_result3.png)
+
+
 ## How to Use
 
 ### Prerequisites
