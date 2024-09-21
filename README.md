@@ -45,6 +45,9 @@ Visual Representation of Segmentation Outcomes from Partial Fine-Tuning with 40 
 ![Visual Result2](./images/noAugEnco40.png)
 
 
+## Thesis Document 
+[Transfer Learning for Brain Lesion Segmentation in 3D Pre-Clinical Magnetic Resonance Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092860)
+
 
 ## How to Use
 
